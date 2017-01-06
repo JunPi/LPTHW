@@ -1,7 +1,7 @@
 ## 安装方法
 我查阅了两种安装方式：
 - 官网下载PKG文件安装（www.python.org）
-- Homebrew 下用LC装 （refer to [The hitchhiker's guider to python](http://docs.python-guide.org/en/latest/))
+- Homebrew 下用LC装 （refer to [The hitchhiker's guider to python](http://docs.python-guide.org/en/latest/))  
 我采用了第二种方法。
 
 ## 问题
